@@ -1,122 +1,144 @@
-<h1 align="center">⚖️ Aqsa Zam Zam Mirza Johar Baig</h1>
-
-<h3 align="center">Law Student · Aspiring Advocate · Voice for Justice</h3>
+<h1 align="center">👩‍⚖️ Aqsa Mirza</h1>
+<h3 align="center">Aspiring Advocate | Policy Research Enthusiast | Legal Analyst</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aqsabaig&label=Profile+Views&color=8B1A1A&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aqsabaig&label=Profile+Views&color=8B1A1A&style=flat-square" />
 </p>
 
 ---
 
-## 👩‍⚖️ About Me
+## 📌 About Me
 
-```yaml
-name:       "Aqsa Zam Zam Mirza Johar Baig"
-field:      "Law"
-status:     "Law Student | Future Advocate"
-interests:
-  - Constitutional Law
-  - Human Rights Law
-  - Legal Research & Writing
-  - Criminal Justice
-  - Public Interest Litigation
-currently:  "Studying law & building legal expertise"
-belief:     "The law is reason, free from passion. — Aristotle"
-```
+I am a law student pursuing **BA LL.B (2022–2027)** with a strong inclination toward **public policy, governance, and legal research**.
 
-- ⚖️ Passionate about **justice, equity, and the rule of law**
-- 📚 Deep interest in **Constitutional & Human Rights Law**
-- 🖊️ Love **legal writing, mooting, and research**
-- 🌍 Believer in law as a tool for **social change**
-- 💡 Always exploring the intersection of **technology and law**
+Through diverse legal internships and academic exposure, I have developed practical expertise in:
+- Legal research & analysis  
+- Drafting & documentation  
+- Policy evaluation  
+
+🎯 **Career Objective:**  
+To contribute to impactful institutions like **NITI Aayog** by applying legal reasoning and policy analysis to real-world governance challenges.
 
 ---
 
-## 🏛️ Legal Interests & Focus Areas
+## 🎓 Education
 
-| Area | Interest Level |
-|------|----------------|
-| ⚖️ Constitutional Law | ████████████ Expert Interest |
-| 🧑‍⚖️ Criminal Law | ██████████░░ High Interest |
-| 🌍 Human Rights Law | ████████████ Expert Interest |
-| 📜 Contract & Civil Law | ████████░░░░ Strong Interest |
-| 💻 Cyber Law & Tech Policy | ███████░░░░░ Growing Interest |
-| 🏢 Corporate Law | ██████░░░░░░ Exploring |
+- **BA LL.B (2022–2027)**  
+  *Dr. Panjabrao Deshmukh College of Law, Amravati*  
+  📊 77.34% (5 semesters)
 
----
+- **12th – Maharashtra State Board (2022)**  
+  📊 95% (PCM + Computer Science)
 
-## 🛠️ Skills & Tools
-
-### Legal Skills
-![Legal Research](https://img.shields.io/badge/Legal_Research-8B1A1A?style=for-the-badge&logoColor=white)
-![Case Analysis](https://img.shields.io/badge/Case_Analysis-6B0F0F?style=for-the-badge&logoColor=white)
-![Legal Drafting](https://img.shields.io/badge/Legal_Drafting-A52A2A?style=for-the-badge&logoColor=white)
-![Moot Court](https://img.shields.io/badge/Moot_Court-8B1A1A?style=for-the-badge&logoColor=white)
-![Argumentation](https://img.shields.io/badge/Argumentation-6B0F0F?style=for-the-badge&logoColor=white)
-
-### Productivity Tools
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **10th – Maharashtra State Board (2020)**  
+  📊 97.4%
 
 ---
 
-## 📖 What I'm Currently Studying
+## 💼 Legal Experience
 
-```
-📌 Constitutional Law       — Rights, Freedoms & Judicial Review
-📌 Law of Evidence          — Admissibility, Witnesses & Proof
-📌 Criminal Procedure Code  — Trial, Appeals & Remedies
-📌 Jurisprudence            — Philosophy & Theory of Law
-📌 Human Rights Law         — Treaties & International Mechanisms
-```
+### 🏛️ Internships
+
+- **National Human Rights Commission (2025)**  
+  - Analyzed human rights issues and case frameworks  
+  - Studied policy recommendations and legal safeguards  
+
+- **Juris Centre (2024)**  
+  - Conducted in-depth legal research  
+  - Drafted case summaries and legal articles  
+
+- **Medilaw (2024)**  
+  - Researched medico-legal issues  
+  - Wrote on healthcare regulations & patient rights  
+
+- **NayaLegal (2024)**  
+  - Performed structured legal research  
+  - Assisted in drafting legal documents  
+
+- **AGISS Research Institute (2024)**  
+  - Contributed to policy research and drafting  
+
+- **Rahul & Jayshree Associates (2024)**  
+  - Assisted in civil & criminal litigation work  
+
+- **Chamber of Adv. Quazi Attibuddin (2023–24)**  
+  - Prepared case briefs for Bombay High Court (Nagpur Bench)  
+
+- **Adv. Milind Deshpande (2023)**  
+  - Assisted in filings and procedural work  
+
+- **Adv. Abdul Hakim (2022–23)**  
+  - Worked on drafting and legal documentation  
 
 ---
 
-## 🎯 Goals & Aspirations
+## 🛠️ Skills
 
-- [ ] 🏅 Excel in **Moot Court competitions**
-- [ ] 📝 Publish a **legal research paper or article**
-- [ ] ⚖️ Complete an **internship at a reputed firm or court**
-- [ ] 🎓 Graduate with **distinction in Law**
-- [ ] 🌍 Contribute to **Human Rights advocacy**
-- [ ] 👩‍⚖️ Become a **respected Advocate & Legal Scholar**
+### ⚖️ Legal Skills
+- Legal Research (Manupatra, SCC Online, Westlaw)  
+- Legal Drafting (Contracts, Briefs, Memos)  
+- Policy Analysis  
 
----
-
-## ✍️ Favourite Legal Quotes
-
-> *"Injustice anywhere is a threat to justice everywhere."*
-> — **Martin Luther King Jr.**
-
-> *"The good of the people is the greatest law."*
-> — **Marcus Tullius Cicero**
-
-> *"Laws are not masters, but servants, and he rules them who obeys them."*
-> — **Henry Ward Beecher**
+### 💡 Core Strengths
+- Analytical Thinking  
+- Structured Writing  
+- Communication & Argumentation  
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
+
+- 🥇 **CLAT 2022** – AIR 42  
+- 🥇 **AILET 2022** – AIR 34  
+
+---
+
+## 🏅 Co-Curricular Activities
+
+- 🥈 Runner-up – Jadhavar National Moot Court Competition (2025)  
+- 🥇 Winner – Yuva Bhushan Competition (2025)  
+- 🗣️ 2nd Best Speaker – AIU National Moot Court (2024)  
+- 🥇 Winner – National PPT Competition (2024)  
+
+---
+
+## 📚 Certifications
+
+- **Lex Osmose – International Trade in Services**  
+  *(HNLU Raipur)* – O Grade  
+
+---
+
+## 🌐 Languages
+
+- English  
+- Hindi  
+- Marathi  
+
+---
+
+## 📫 Contact
+
+- 📍 Amravati, Maharashtra  
+- 📧 aqsamirza6306@gmail.com  
+- 📞 +91 7558399742  
+
+---
+
+## 🚀 Career Goals
+
+- Work on **policy research and governance frameworks**  
+- Build expertise in **institutional reform & legal systems**  
+- Contribute to **data-driven public policy decisions**
+
+---
+
+## 📖 Resume
+
+📄 *Coming Soon* (or upload PDF and link here)
+
+---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aqsabaig&show_icons=true&theme=gruvbox&hide_border=true&title_color=8B1A1A&icon_color=8B1A1A" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aqsabaig&theme=gruvbox&hide_border=true&ring=8B1A1A&fire=8B1A1A" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  I'm always open to discussing law, legal debates, research collaborations,<br/>
-  or anything related to justice, rights, and advocacy. Let's talk!
-</p>
-
----
-
-<p align="center">
-  <i>"She believed she could change the world through law — so she is."</i>
+  ⭐ If you find my profile interesting, feel free to connect!
 </p>
