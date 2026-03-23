@@ -123,10 +123,9 @@ Data Structures & Algorithms | OOP | System Design | DBMS | OS
 
 - 📍 Pune, Maharashtra  
 - 📧 aqsamirza6306@gmail.com  
-- 🌐 Portfolio: **ayush-dayal.online**  
-- 💼 LinkedIn: linkedin.com/in/ayushdayal8  
-- 💻 GitHub: github.com/ayushdayal900  
-- 🧠 LeetCode: leetcode.com/u/ayushdayal900  
+- 🌐 Portfolio: [**https://aqsa-zam-zam-mirza-johar-baig-portf.vercel.app/**](https://aqsa-zam-zam-mirza-johar-baig-portf.vercel.app)  
+- 💼 LinkedIn: [linkedin.com/in/ayushdayal8](https://www.linkedin.com/in/aqsamirza08)  
+- 💻 GitHub: [github.com/ayushdayal900 ](https://github.com/AQSA-ZAM-ZAM-MIRZA-JOHAR-BAIG)   
 
 ---
 
