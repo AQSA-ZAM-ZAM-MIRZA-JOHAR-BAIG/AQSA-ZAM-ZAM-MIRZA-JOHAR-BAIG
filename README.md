@@ -1,144 +1,141 @@
-<h1 align="center">👩‍⚖️ Aqsa Mirza</h1>
-<h3 align="center">Aspiring Advocate | Policy Research Enthusiast | Legal Analyst</h3>
+<h1 align="center">🚀 Aqsa Mirza</h1>
+<h3 align="center">AI & ML Engineer | Full-Stack Developer | Cloud & System Design Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aqsabaig&label=Profile+Views&color=8B1A1A&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=aqsabaig&label=Profile+Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
 ## 📌 About Me
 
-I am a law student pursuing **BA LL.B (2022–2027)** with a strong inclination toward **public policy, governance, and legal research**.
+I am a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning**, with dual degrees from **VIIT Pune** and **IIT Madras (Data Science)**.
 
-Through diverse legal internships and academic exposure, I have developed practical expertise in:
-- Legal research & analysis  
-- Drafting & documentation  
-- Policy evaluation  
+I focus on building **scalable, secure, and production-ready full-stack applications** powered by **AI, cloud computing, and distributed systems**.
+
+💡 I have hands-on experience in:
+- Full-Stack Development (**MERN, Flask, Vue.js**)
+- Cloud Architecture (**AWS – EC2, S3, Lambda, RDS, CloudFormation**)
+- Machine Learning (**TensorFlow, PyTorch, Scikit-learn**)
+- Backend Engineering (**REST APIs, JWT Auth, RBAC, Microservices**)
 
 🎯 **Career Objective:**  
-To contribute to impactful institutions like **NITI Aayog** by applying legal reasoning and policy analysis to real-world governance challenges.
+To build impactful **AI-driven and cloud-native systems** that solve real-world problems at scale using **Machine Learning, System Design, and DevOps practices**.
 
 ---
 
 ## 🎓 Education
 
-- **BA LL.B (2022–2027)**  
-  *Dr. Panjabrao Deshmukh College of Law, Amravati*  
-  📊 77.34% (5 semesters)
+- **B.Tech in Computer Science (AI & ML)** *(2023–2027)*  
+  *Vishwakarma Institute of Information Technology (VIIT), Pune*  
+  📊 CGPA: **8.77**
 
-- **12th – Maharashtra State Board (2022)**  
-  📊 95% (PCM + Computer Science)
-
-- **10th – Maharashtra State Board (2020)**  
-  📊 97.4%
+- **B.Sc in Data Science** *(2023–2027)*  
+  *Indian Institute of Technology, Madras (IITM)*  
+  📊 CGPA: **7.44**
 
 ---
 
-## 💼 Legal Experience
+## 💼 Industry Experience & Programs
 
-### 🏛️ Internships
+### 🌐 EduSkills – Web Development
+- Built **5+ responsive web applications** using HTML, CSS, JavaScript, and Bootstrap  
+- Improved performance and reduced load time by **30%**
 
-- **National Human Rights Commission (2025)**  
-  - Analyzed human rights issues and case frameworks  
-  - Studied policy recommendations and legal safeguards  
+### ☁️ AWS – Cloud Practices
+- Worked with **15+ AWS services** to design scalable architectures  
+- Deployed **3+ cloud-based applications** with high availability  
 
-- **Juris Centre (2024)**  
-  - Conducted in-depth legal research  
-  - Drafted case summaries and legal articles  
-
-- **Medilaw (2024)**  
-  - Researched medico-legal issues  
-  - Wrote on healthcare regulations & patient rights  
-
-- **NayaLegal (2024)**  
-  - Performed structured legal research  
-  - Assisted in drafting legal documents  
-
-- **AGISS Research Institute (2024)**  
-  - Contributed to policy research and drafting  
-
-- **Rahul & Jayshree Associates (2024)**  
-  - Assisted in civil & criminal litigation work  
-
-- **Chamber of Adv. Quazi Attibuddin (2023–24)**  
-  - Prepared case briefs for Bombay High Court (Nagpur Bench)  
-
-- **Adv. Milind Deshpande (2023)**  
-  - Assisted in filings and procedural work  
-
-- **Adv. Abdul Hakim (2022–23)**  
-  - Worked on drafting and legal documentation  
+### 🤖 Google – AI & Machine Learning
+- Applied **supervised & unsupervised learning** on real datasets  
+- Evaluated models using **10+ performance metrics**
 
 ---
 
-## 🛠️ Skills
+## 🚀 Projects
 
-### ⚖️ Legal Skills
-- Legal Research (Manupatra, SCC Online, Westlaw)  
-- Legal Drafting (Contracts, Briefs, Memos)  
-- Policy Analysis  
-
-### 💡 Core Strengths
-- Analytical Thinking  
-- Structured Writing  
-- Communication & Argumentation  
+### 🛒 Mahalaxmi Tailors – Scalable E-Commerce Platform
+**Tech:** MERN Stack, JWT, AWS, Razorpay, Cloudinary, DevOps  
+- Built a **production-ready e-commerce system** with 70+ users  
+- Implemented **secure authentication (JWT, HttpOnly, RBAC)**  
+- Integrated **payment gateway, video consultation, and cloud services**  
+- Enhanced security using **Helmet, rate limiting, monitoring**
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **CLAT 2022** – AIR 42  
-- 🥇 **AILET 2022** – AIR 34  
-
----
-
-## 🏅 Co-Curricular Activities
-
-- 🥈 Runner-up – Jadhavar National Moot Court Competition (2025)  
-- 🥇 Winner – Yuva Bhushan Competition (2025)  
-- 🗣️ 2nd Best Speaker – AIU National Moot Court (2024)  
-- 🥇 Winner – National PPT Competition (2024)  
+### 🏥 FalcoVita – AI-Powered Healthcare Platform
+**Tech:** Vue.js, Flask, Redis, Celery, OpenAI, Pinecone  
+- Led end-to-end development of a **scalable healthcare system**  
+- Designed **asynchronous pipelines** reducing latency  
+- Built **20+ interactive dashboards** for analytics  
+- Secured system with **Bcrypt, Argon2, HMAC**
 
 ---
 
-## 📚 Certifications
-
-- **Lex Osmose – International Trade in Services**  
-  *(HNLU Raipur)* – O Grade  
-
----
-
-## 🌐 Languages
-
-- English  
-- Hindi  
-- Marathi  
+### 📊 IPO Success Predictor (ML Project)
+**Tech:** Machine Learning, Pandas, NumPy, Hugging Face  
+- Achieved **80% prediction accuracy**  
+- Built **real-time prediction interface**  
+- Automated ML pipeline for consistent insights  
 
 ---
 
-## 📫 Contact
+## 🛠️ Technical Skills
 
-- 📍 Amravati, Maharashtra  
+### 💻 Programming
+Java | Python | C++ | JavaScript  
+
+### 🌐 Full-Stack & Frameworks
+React.js | Vue.js | Node.js | Express.js | Flask  
+
+### 📊 Machine Learning & Data Science
+TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy | Matplotlib  
+
+### 🗄️ Databases
+MySQL | PostgreSQL | MongoDB | SQLite | Redis  
+
+### ☁️ Cloud & DevOps
+AWS (EC2, S3, Lambda, RDS, CloudFormation, CloudFront)  
+CI/CD | Git | GitHub | Postman  
+
+### 📚 Core Concepts
+Data Structures & Algorithms | OOP | System Design | DBMS | OS  
+
+---
+
+## 🏆 Certifications
+
+- 🥇 **Microsoft Azure Fundamentals (AZ-900)**  
+- 🥇 **Oracle Cloud Generative AI Professional (2025)**  
+
+---
+
+## 🌱 What I’m Focused On
+
+- Building **AI-powered scalable applications**  
+- Mastering **System Design & Distributed Systems**  
+- Exploring **Cloud-Native & DevOps architectures**  
+- Solving real-world problems using **Machine Learning**
+
+---
+
+## 📫 Connect With Me
+
+- 📍 Pune, Maharashtra  
 - 📧 aqsamirza6306@gmail.com  
-- 📞 +91 7558399742  
+- 🌐 Portfolio: **ayush-dayal.online**  
+- 💼 LinkedIn: linkedin.com/in/ayushdayal8  
+- 💻 GitHub: github.com/ayushdayal900  
+- 🧠 LeetCode: leetcode.com/u/ayushdayal900  
 
 ---
 
-## 🚀 Career Goals
+## 🚀 Career Vision
 
-- Work on **policy research and governance frameworks**  
-- Build expertise in **institutional reform & legal systems**  
-- Contribute to **data-driven public policy decisions**
-
----
-
-## 📖 Resume
-
-📄 *Coming Soon* (or upload PDF and link here)
+To become a highly skilled **AI Engineer & Software Developer**, building **scalable, intelligent, and secure systems** that impact millions of users globally.
 
 ---
 
 <p align="center">
-  ⭐ If you find my profile interesting, feel free to connect!
+  ⭐ If you like my work, consider connecting and collaborating!
 </p>
